@@ -4,7 +4,7 @@
 DS2001 - Final Project
 Life Expectancy
 
-Stanley Hsu, Justin Lee, Tim Rohan
+Stanley Hsu
 """
 
 import pandas as pd
